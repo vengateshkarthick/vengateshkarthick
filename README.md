@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vengateshkarthick
+- 👋 Hi, I’m @vengateshkarthick, professional Frontend Engineer 
 - 👀 I’m interested in Automation and Web Application Development 
-- 🌱 I’m currently learning Node Js.
-- 💞️ I’m looking to collaborate on  Web page designing and Saas projects 
+- 🌱 I’m currently learning MERN.
+- 💞️ I’m looking to collaborate on Saas projects 
 - 📫 ...reach me out @ karthickvengatesh001@gmail.com
 
 <!---
