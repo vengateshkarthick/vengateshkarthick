@@ -2,7 +2,8 @@
 - 👀 I’m interested in Automation and Web Application Development 
 - 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on Saas projects 
-- 📫 ...reach me out @ karthickvengatesh001@gmail.com
+- 📫 ...reach me out @ jobsforvengateshgv@gmail.com
+  
 
 <!---
 vengateshkarthick/vengateshkarthick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
